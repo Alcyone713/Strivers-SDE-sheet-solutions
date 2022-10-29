@@ -18,4 +18,4 @@ vector<vector<int>> generate(int numRows) {
             pascal.push_back(row);
         }
         return pascal;
-    }
+}
